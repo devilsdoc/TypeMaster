@@ -1,0 +1,21 @@
+{
+  "name": "newdot",
+  "version": "1.0.0",
+  "description": "<h2>Typing Game<h2>\r <br>\r <p>This is typing game for those whos typing is slow\r   learn with fun<p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilsdoc/newdot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devilsdoc/newdot/issues"
+  },
+  "homepage": "https://github.com/devilsdoc/newdot#readme"
+}
